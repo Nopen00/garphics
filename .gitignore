@@ -1,0 +1,28 @@
+# 앞에 붙은 / 를 모두 제거했습니다.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[探s]ogs/
+[MemoryCaptures]/
+
+# 유니티가 생성하는 프로젝트 파일들
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.IDB
+*.VC.db
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
